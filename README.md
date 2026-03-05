@@ -1,1 +1,1 @@
-This repository contains ALX Higher Level Programming projects in Python.
+Python if/else, loops, functions project
