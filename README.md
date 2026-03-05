@@ -1,1 +1,1 @@
-This repository contains Python higher-level programming projects.
+This repository contains ALX Higher Level Programming projects in Python.
